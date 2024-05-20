@@ -1,0 +1,8 @@
+epochs: 50
+lr: 0.00002
+model_name: all-MiniLM-L6-v2 
+checkpoint_path: /data/ubuntu/constrastive_representation_learning/saved_checkpoints
+checkpoint_save_steps : 500
+loss_name: triplet
+data_path: /data/ubuntu/constrastive_representation_learning/data/data_train_splitted.json
+batch_size: 32

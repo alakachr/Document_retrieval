@@ -1,0 +1,5 @@
+#Folders
+saved_checkpoints/
+__pycache__/
+#Files
+*.out
